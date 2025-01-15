@@ -1,0 +1,11 @@
+venv/
+index_docs/
+text-generation-webui/
+development/
+models/
+./app.log
+private_key.pem
+public_key.pem
+vwatson/
+config.json
+app.log
